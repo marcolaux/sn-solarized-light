@@ -1,0 +1,21 @@
+{
+  "name": "Solarized Light (latest)",
+  "identifier": "krst.solarized.light",
+  "version": "0.2",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "main": "dist/dist.css",
+  "showInGallery": true,
+  "description": "Solarized Light",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#f9cc6c",
+    "foreground_color": "#f9cc6c",
+    "border_color": "#fd6883"
+  },
+  "url": "https://apps.laux.wtf/sn-solarized-light/dist/dist.css",
+  "download_url": "https://apps.laux.wtf/sn-solarized-light/sn-solarized-light.zip",
+  "marketing_url": "https://github.com/marcolaux/sn-solarized-light",
+  "latest_url": "https://apps.laux.wtf/sn-solarized-light/ext.json",
+  "thumbnail": "https://apps.laux.wtf/sn-solarized-light/screenshot.png"
+}
