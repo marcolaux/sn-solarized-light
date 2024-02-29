@@ -2,7 +2,7 @@
   "sn": {
     "name": "Solarized Light (latest)",
     "identifier": "krst.solarized.light",
-    "version": "0.2",
+    "version": "0.4",
     "content_type": "SN|Theme",
     "area": "themes",
     "main": "dist/dist.css",

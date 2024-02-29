@@ -1,7 +1,7 @@
 {
   "name": "Solarized Light (latest)",
   "identifier": "krst.solarized.light",
-  "version": "0.2",
+  "version": "0.4",
   "content_type": "SN|Theme",
   "area": "themes",
   "main": "dist/dist.css",
@@ -9,8 +9,8 @@
   "description": "Solarized Light",
   "dock_icon": {
     "type": "circle",
-    "background_color": "#f9cc6c",
-    "foreground_color": "#f9cc6c",
+    "background_color": "#b58900",
+    "foreground_color": "#fdf6e3",
     "border_color": "#fd6883"
   },
   "url": "https://apps.laux.wtf/sn-solarized-light/dist/dist.css",
